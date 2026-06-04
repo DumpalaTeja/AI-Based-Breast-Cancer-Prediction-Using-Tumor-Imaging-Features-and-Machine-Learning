@@ -1,9 +1,9 @@
-flask
-torch
-torchvision
-pillow
+streamlit
 numpy
-opencv-python
-matplotlib
+tensorflow
 scikit-learn
-joblib
+pandas
+matplotlib
+Pillow
+opencv-python-headless
+xgboost
