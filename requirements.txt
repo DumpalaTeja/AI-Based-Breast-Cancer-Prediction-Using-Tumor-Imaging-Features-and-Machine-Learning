@@ -1,9 +1,9 @@
 streamlit
 numpy
-tensorflow
 scikit-learn
 pandas
 matplotlib
 Pillow
 opencv-python-headless
 xgboost
+tensorflow==2.15.1
